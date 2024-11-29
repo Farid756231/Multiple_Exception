@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE89F0D-C429-4639-BFBD-2408AFB41899}|HandlMultipleExceptionTests\\HandlMultipleExceptionTests.csproj|c:\\users\\elgiganten\\onedrive\\skrivbord\\tuc_kurser\\testning_kurs\\handlmultiple_exception12\\handlmultipleexceptiontests\\exceptionhandlingtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE89F0D-C429-4639-BFBD-2408AFB41899}|HandlMultipleExceptionTests\\HandlMultipleExceptionTests.csproj|solutionrelative:handlmultipleexceptiontests\\exceptionhandlingtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE89F0D-C429-4639-BFBD-2408AFB41899}|HandlMultipleExceptionTests\\HandlMultipleExceptionTests.csproj|c:\\users\\elgiganten\\onedrive\\skrivbord\\tuc_kurser\\testning_kurs\\handlmultiple_exception12\\handlmultipleexceptiontests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE89F0D-C429-4639-BFBD-2408AFB41899}|HandlMultipleExceptionTests\\HandlMultipleExceptionTests.csproj|solutionrelative:handlmultipleexceptiontests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9BFFBD-B83E-4584-B331-C54BB8DDD241}|HandlMultiple_Exception\\HandlMultiple_Exception.csproj|c:\\users\\elgiganten\\onedrive\\skrivbord\\tuc_kurser\\testning_kurs\\handlmultiple_exception12\\handlmultiple_exception\\handlingmultiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9BFFBD-B83E-4584-B331-C54BB8DDD241}|HandlMultiple_Exception\\HandlMultiple_Exception.csproj|solutionrelative:handlmultiple_exception\\handlingmultiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9BFFBD-B83E-4584-B331-C54BB8DDD241}|HandlMultiple_Exception\\HandlMultiple_Exception.csproj|c:\\users\\elgiganten\\onedrive\\skrivbord\\tuc_kurser\\testning_kurs\\handlmultiple_exception12\\handlmultiple_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9BFFBD-B83E-4584-B331-C54BB8DDD241}|HandlMultiple_Exception\\HandlMultiple_Exception.csproj|solutionrelative:handlmultiple_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingTestes.cs",
+              "DocumentMoniker": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultipleExceptionTests\\ExceptionHandlingTestes.cs",
+              "RelativeDocumentMoniker": "HandlMultipleExceptionTests\\ExceptionHandlingTestes.cs",
+              "ToolTip": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultipleExceptionTests\\ExceptionHandlingTestes.cs",
+              "RelativeToolTip": "HandlMultipleExceptionTests\\ExceptionHandlingTestes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:37:14.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultipleExceptionTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HandlMultipleExceptionTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultipleExceptionTests\\UnitTest1.cs",
+              "RelativeToolTip": "HandlMultipleExceptionTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:36:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandlingMultiException.cs",
+              "DocumentMoniker": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultiple_Exception\\HandlingMultiException.cs",
+              "RelativeDocumentMoniker": "HandlMultiple_Exception\\HandlingMultiException.cs",
+              "ToolTip": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultiple_Exception\\HandlingMultiException.cs",
+              "RelativeToolTip": "HandlMultiple_Exception\\HandlingMultiException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:34:06.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultiple_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "HandlMultiple_Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\Elgiganten\\OneDrive\\Skrivbord\\TUC_KURSER\\Testning_Kurs\\HandlMultiple_Exception12\\HandlMultiple_Exception\\Program.cs",
+              "RelativeToolTip": "HandlMultiple_Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:33:05.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
